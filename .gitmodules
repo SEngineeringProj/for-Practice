@@ -1,3 +1,6 @@
 [submodule "New-Unity-Project"]
 	path = New-Unity-Project
 	url = https://github.com/SEngineeringProj/New-Unity-Project.git
+[submodule "Swordsman"]
+	path = Swordsman
+	url = https://github.com/TanmayKumar-EngStud/Swordsman.git
